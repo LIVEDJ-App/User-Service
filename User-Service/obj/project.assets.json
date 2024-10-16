@@ -434,9 +434,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Apps\\.NET Projects\\LIVEDJ Project\\User-Service\\User-Service\\User-Service.csproj",
-      "projectName": "User-Service",
-      "projectPath": "C:\\Apps\\.NET Projects\\LIVEDJ Project\\User-Service\\User-Service\\User-Service.csproj",
+      "projectUniqueName": "C:\\Apps\\.NET Projects\\LIVEDJ Project\\User-Service\\User-Service\\User-Service.Api.csproj",
+      "projectName": "User-Service.Api",
+      "projectPath": "C:\\Apps\\.NET Projects\\LIVEDJ Project\\User-Service\\User-Service\\User-Service.Api.csproj",
       "packagesPath": "C:\\Users\\Steijn\\.nuget\\packages\\",
       "outputPath": "C:\\Apps\\.NET Projects\\LIVEDJ Project\\User-Service\\User-Service\\obj\\",
       "projectStyle": "PackageReference",

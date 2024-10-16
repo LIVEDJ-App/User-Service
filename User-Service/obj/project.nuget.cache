@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I/3VXnMXcuJQkTYs5vkmeFMCZVkdJ83KrjM85eQ2Tim7u8vm89kKj1ylhTeNIlo3BttpF4gYL4UQ9EVgWbPgHw==",
+  "dgSpecHash": "Hw0Ffn/9VoN0v71S+vXqkdSSZIq889cg2XDy4pThMFrggLcfeaWWEoypluq5YPHe6Y+WL+eIANWq+4lW6oc8zw==",
   "success": true,
-  "projectFilePath": "C:\\Apps\\.NET Projects\\LIVEDJ Project\\User-Service\\User-Service\\User-Service.csproj",
+  "projectFilePath": "C:\\Apps\\.NET Projects\\LIVEDJ Project\\User-Service\\User-Service\\User-Service.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Steijn\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Steijn\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
